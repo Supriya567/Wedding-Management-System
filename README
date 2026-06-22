@@ -1,0 +1,18 @@
+# Wedding Management System
+
+A web-based Wedding Management System developed using PHP and MySQL to streamline wedding planning, service bookings, and vendor coordination.
+
+## Features
+- Venue Management
+- Catering Management
+- Decoration Services
+- Vendor Coordination
+- Event Booking Management
+
+## Tech Stack
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- XAMPP
